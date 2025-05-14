@@ -7,13 +7,13 @@
 
 - 🔭 I’m currently working on **e-commerce website**
 
-- 🌱 I’m currently learning **javascript**
+- 🌱 I’m currently learning **React**
 
 - 👯 I’m looking to collaborate on **exclusive website**
 
-- 💬 Ask me about **html, css**
+- 💬 Ask me about **html, css, tailwind, API, javascrip**
 
-- 📫 How to reach me **airinnila43@gmail.com**
+- 📫 How to reach me **airinakhternila@gmail.com**
 
 - ⚡ Fun fact **I am funny**
 
