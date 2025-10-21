@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **e-commerce website**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **PostgreSQL**
 
 - 👯 I’m looking to collaborate on **exclusive website**
 
